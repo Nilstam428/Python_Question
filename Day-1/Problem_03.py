@@ -10,7 +10,7 @@ name="My name is sandeep muhal"
 # 01+2=a
 # 2+2=a
 # 4+2=h
-name="Prakash"
+name="Sandeep"
 print(name[::2])
 print(name[2:])
-print(name[-1])
+print(name[-1:])

@@ -13,3 +13,4 @@ num=int(input("Enter First value:-"))
 num1=int(input("Enter second value:-"))
 print("Addition :-",add(num,num1))
 print("Double value:-",double(result))
+
